@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/trial-repository/static/css/main.7acaea2f.css",
+    "main.js": "/trial-repository/static/js/main.bc46ddd9.js",
+    "index.html": "/trial-repository/index.html",
+    "main.7acaea2f.css.map": "/trial-repository/static/css/main.7acaea2f.css.map",
+    "main.bc46ddd9.js.map": "/trial-repository/static/js/main.bc46ddd9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7acaea2f.css",
+    "static/js/main.bc46ddd9.js"
+  ]
+}
